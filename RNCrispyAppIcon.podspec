@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author       = package['author']
   
   s.platform     = :ios, "11.0"
-  s.source       = { :git => "https://github.com/nakioct/react-native-crispy-appicon.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/lesterdavi/react-native-crispy-appicon.git", :tag => "master" }
 
   s.source_files = "ios/*.{h,m}"
   s.requires_arc = true
